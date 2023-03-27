@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="email"><b>Enter your Email Address</b></label>
+    <label for="email"><b>Enter your one and only and only and only Email Address</b></label>
     <input type="text" placeholder="Enter your Email Address" name="email" id="email" required>
     <br>
 
